@@ -2,7 +2,7 @@
 
 Erste Anwendung in PHP (Kontrollstrukturen)
 
-**Name:** Basty Asumadu - **Übungstag:** 22.11.2024 - **Klasse:** 3aAPC - **Gruppe:** A - **Lehrgang:** 2
+**Name:** Basty Asumadu - **Übungstag:** 21.11.2024 - **Klasse:** 3aAPC - **Gruppe:** A - **Lehrgang:** 2
 
 **Schleife.php**
 
